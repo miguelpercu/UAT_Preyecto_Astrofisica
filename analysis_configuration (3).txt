@@ -1,0 +1,20 @@
+
+UAT FRAMEWORK - ANALYSIS CONFIGURATION
+======================================
+
+COSMOLOGICAL PARAMETERS:
+H0 = 67.4 km/s/Mpc
+Omega_m = 0.315
+Omega_de = 0.685
+Omega_r = 9.182e-05
+gamma (Barbero-Immirzi) = 0.2375
+M0 (reference mass) = 1000000000000.0 kg
+
+ANALYSIS PARAMETERS:
+Redshift range: 0.01 - 2.00
+Number of points: 100
+PBH masses analyzed: [1e10, 1e11, 1e12, 1e13, 1e14, 1e15] kg
+
+NUMERICAL SETTINGS:
+Theoretical correction bounds: Unlimited
+Numerical correction bounds: ±0.2%
